@@ -1112,6 +1112,10 @@ Lightroom Killer Tips | https://lightroomkillertips.com/feed/ | lightroomkillert
 Title | RSS Feed Url | All Feeds 
 -------|------------------|---------- 
 AgriPulse News | https://www.agri-pulse.com/rss/topic/71-news |
+## Job Alerts
+Title | RSS Feed Url | All Feeds 
+-------|------------------|----------
+Free Job Alert | https://feeds.feedburner.com/freejobalert | https://www.freejobalert.com/government-jobs/
 
 ## Contribution
 
