@@ -1108,7 +1108,7 @@ Economic Times | https://economictimes.indiatimes.com/rssfeedsdefault.cms | http
 Title | RSS Feed Url | All Feeds 
 -------|------------------|---------- 
 Lightroom Killer Tips | https://lightroomkillertips.com/feed/ | lightroomkillertips.com 
-## Agricuture
+## Agriculture
 Title | RSS Feed Url | All Feeds 
 -------|------------------|---------- 
 AgriPulse News | https://www.agri-pulse.com/rss/topic/71-news |
