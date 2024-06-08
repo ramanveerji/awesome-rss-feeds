@@ -1116,7 +1116,7 @@ AgriPulse News | https://www.agri-pulse.com/rss/topic/71-news |
 Title | RSS Feed Url | All Feeds 
 -------|------------------|----------
 Free Job Alert | https://feeds.feedburner.com/freejobalert | https://www.freejobalert.com/government-jobs/
-AffairsCloud | https://affairscloud.com/jobs/feed/ | https://affairscloud.com/jobs/government-jobs/
+JobsCloud | https://affairscloud.com/jobs/feed/ | https://affairscloud.com/jobs/government-jobs/
 
 ## Contribution
 
