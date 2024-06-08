@@ -1117,7 +1117,9 @@ Title | RSS Feed Url | All Feeds
 -------|------------------|----------
 Free Job Alert | https://feeds.feedburner.com/freejobalert | https://www.freejobalert.com/government-jobs/
 JobsCloud | https://affairscloud.com/jobs/feed/ | https://affairscloud.com/jobs/government-jobs/
-
+StudyCafe | https://studycafe.in/feed/ | https://studycafe.in/
+StudyCafe Recruitment | https://studycafe.in/tag/recruitment-2024/feed/ | https://studycafe.in/
+CDC Recruitment | https://cdc.org.in/feed/ | https://cdc.org.in/
 ## Contribution
 
 ### Add new category/country/feed
